@@ -3,7 +3,7 @@
 define('DB_HOST', '127.0.0.1:3308');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
-define('DB_NAME', 'student_db');
+define('DB_NAME', 'company_db');
 //if db-name is wrong then connection will be wrong, if it is '' empty no issue
 define('SHOW_CONN', FALSE);
 try {
